@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    background-image: url("https://media.istockphoto.com/id/1452586042/photo/survey.webp?b=1&s=170667a&w=0&k=20&c=jm0ODFwFoYd6cPMaxP15QoFnx14q_yjnkNzLV1ZGu8g=") repeating-linear-gradient(0);
+    text-align: center;
+  
+}
+#main{
+    color: white;
+}
+#title{
+    font-size: 700%;
+    padding: 0;
+    margin: 2px;
+  
+}
+#description{
+    font-style: italic;
+    padding: 0;
+    margin: 10px;
+    font-size: 300%;
+}
+#name,#email,#number{
+    padding: 2px;
+    margin:10px;
+}
+#survey-form{
+    margin: 10px;
+}  
